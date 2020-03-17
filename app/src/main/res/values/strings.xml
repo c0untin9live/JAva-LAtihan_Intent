@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="pa">Pindah Activity</string>
+    <string name="pdd">Pindah Dengan Data</string>
+    <string name="pn">Panggil Nomor</string>
+    <string name="td">Terima Data</string>
+    <string name="ima">Ini Move Activity</string>
+</resources>
